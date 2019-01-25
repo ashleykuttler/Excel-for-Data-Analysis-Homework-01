@@ -1,2 +1,2 @@
-# Excel-for-Data-Analysis-
-Excel Homework 01 UT Austin Data Analysis BootCamp
+# Excel-for-Data-Analysis-Homework 01
+Excel Homework 01 UT Austin Data Analysis & Visualiztion BootCamp
